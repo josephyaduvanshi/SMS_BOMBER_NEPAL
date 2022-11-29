@@ -1,0 +1,114 @@
+{
+  "Khalti": {
+    "api": "https://khalti.com/api/v5/account_recovery/send_otp/",
+    "api2": "",
+    "host": "",
+    "origin": "",
+    "referer": "",
+    "ua": ""
+  },
+  "ImePay": {
+    "api": "https://json.imepay.com.np:8787/api/NewOnboarding/ResetDevice",
+    "api2": "https://json.imepay.com.np:8787/api/NewOnboarding/AppRegister",
+    "host": "",
+    "origin": "",
+    "referer": "",
+    "ua": ""
+  },
+  "SajiloPay": {
+    "api": "https://api.sajilopay.com.np/api/otp/mobile/generate",
+    "api2": "",
+    "host": "api.sajilopay.com.np",
+    "origin": "",
+    "referer": "",
+    "ua": "SajiloPay/4 CFNetwork/1399 Darwin/22.1.0"
+  },
+  "Icash": {
+    "api": "https://api.icash.com.np/api/otp/mobile/generate",
+    "api2": "",
+    "host": "api.icash.com.np",
+    "origin": "",
+    "referer": "",
+    "ua": "iCash/25 CFNetwork/1399 Darwin/22.1.0"
+  },
+  "Moco": {
+    "api": "https://gw.moco.com.np/v330/user/verification/",
+    "api2": "",
+    "host": "gw.moco.com.np",
+    "origin": "",
+    "referer": "",
+    "ua": ""
+  },
+  "Ncell": {
+    "api": "https://sca.ncell.axiata.com/adl/et/telco/selfcare/ncell/api/v1.0/user/otp/generate",
+    "api2": "",
+    "host": "sca.ncell.axiata.com",
+    "origin": "",
+    "referer": "",
+    "ua": "SingleCustomerApp/1 CFNetwork/1399 Darwin/22.1.0"
+  },
+  "Nagrik": {
+    "api": "https://webservice.nagarikapp.gov.np/api/registration/",
+    "api2": "",
+    "host": "",
+    "origin": "",
+    "referer": "",
+    "ua": "Dart/2.16(dart:io)"
+  },
+  "NID": {
+    "api": "http://www.nidmc.gov.np/PreEnrollment/enterMobileNumber",
+    "api2": "http://www.nidmc.gov.np/PreEnrollment/enterOtp",
+    "host": "www.nidmc.gov.np",
+    "origin": "http://www.nidmc.gov.np",
+    "referer": "http://www.nidmc.gov.np/PreEnrollment/",
+    "ua": "NepaliDate/1 CFNetwork/1399 Darwin/22.1.0"
+  },
+  "Pathao": {
+    "api": "https://api.pathao.com/v2/auth/register",
+    "api2": "",
+    "host": "api.pathao.com",
+    "origin": "",
+    "referer": "",
+    "ua": "Pathao/6.8.0 (com.pathao.ios.user; build:238; iOS 16.1.1) Alamofire/5.5.0"
+  },
+  "Moru": {
+    "api": "https://api.moru.com.np/users/register",
+    "api2": "",
+    "host": "api.moru.com.np",
+    "origin": "",
+    "referer": "",
+    "ua": "Dart/2.16 (dart:io)"
+  },
+  "PrabhuPay": {
+    "api": "https://sys.prabhupay.com/api/Customer/Register",
+    "api2": "https://sys.prabhupay.com/api/Customer/ResendActivationCode",
+    "host": "sys.prabhupay.com",
+    "origin": "",
+    "referer": "",
+    "ua": "PrabhuPAY/342 CFNetwork/1333.0.4 Darwin/21.5.0"
+  },
+  "PrabhuTv": {
+    "api": "https://app.prabhutv.com.np/api/v3/register",
+    "api2": "",
+    "host": "app.prabhutv.com.np",
+    "origin": "",
+    "referer": "",
+    "ua": "prabhutv/3.1.3 (iPhone; iOS 16.1.1; Scale/3.00)"
+  },
+  "OnlineSathi": {
+    "api": "https://onlinesaathi.com/login",
+    "api2": "https://onlinesaathi.com/otp/get",
+    "host": "",
+    "origin": "https://onlinesaathi.com",
+    "referer": "https://onlinesaathi.com/login",
+    "ua": ""
+  },
+  "Upaya": {
+    "api": "https://citycargoapi.upaya.com.np/index.php?method=register_service_seeker",
+    "api2": "https://citycargoapi.upaya.com.np/client_index.php?method=resend_verification_code",
+    "host": "",
+    "origin": "",
+    "referer": "",
+    "ua": ""
+  }
+}
