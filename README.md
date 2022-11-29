@@ -1,4 +1,4 @@
-# SMS BOMBER NEPAL _ JOSEPH
+# SMS BOMBER NEPAL
 
 A python script to prank or bomb any Nepali mobile number with unlimited SMS.
 
