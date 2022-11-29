@@ -568,7 +568,7 @@ def main():
             BomberHelper.online_sathi(number)
             print(f"Bombed {i + 1}")
     except Exception as e:
-        # main()
+        main()
         print(e)
 
 
