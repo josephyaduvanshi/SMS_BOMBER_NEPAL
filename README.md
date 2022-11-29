@@ -2,6 +2,8 @@
 
 A python script to prank or bomb any Nepali mobile number with unlimited SMS.
 
+**NOTE**: This script is only for educational purpose. If any owner of api used in this script has any problem, please contact me. I will remove that api.
+
 **Disclaimer:**
 
 This is for educational purposes only. I am not responsible for any misuse of this code or any damage caused by this
